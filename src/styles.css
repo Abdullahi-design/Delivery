@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .btn{
+    @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider;
+}
+.login-btn{
+    @apply text-green-600 border-green-600 md:border-2 hover:bg-green-600 hover:text-white transition ease-out duration-500;
+}
+.signup-btn{
+    @apply text-green-600 ml-2 border-green-600 md:border-2 hover:bg-green-600 hover:text-white transition ease-out duration-500;
+}
+.card{
+    @apply bg-white rounded overflow-hidden shadow-md relative;
+}  */
